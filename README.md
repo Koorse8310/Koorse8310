@@ -2,7 +2,6 @@
 - 👀 I’m interested in ....(Contact me to know more)
 - I’m a Full Stack Web Developer.
 - I’m looking to collaborate on Python or Java or Full Stack Applications.
-- I’m a Working in Tata Elxsi as a Automation and Validation Engineer.
 - 📫 How to reach me ... Discord- Rajat Koorse#1315, Instagram- koorse_, Email- rajatkoorse.rk@gmail.com
 - 🌐 Checkout my Website to know more about me - https://rajatkoorse.in/
 
